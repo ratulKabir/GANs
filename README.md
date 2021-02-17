@@ -1,4 +1,4 @@
-# generative-models
+# GANs
 This repo contains implementations of different different generative models. This implementations are part of the "Learning Generative Models" course that I took on summer 2020 at OvGU Magdeburg. Besides my efforts to do these assignments the code is adapted from ideas of fellow students and our respected Tutor. <br>
 Since the ipynb file become very very big with the the outputs included, I have uploaded only the code. Part of generated images can be found below.
 ### 1. GAN 
